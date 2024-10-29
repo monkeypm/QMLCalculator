@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Keyboard.qml</file>
+        <file>LedScreen.qml</file>
+        <file>Calculator.qml</file>
+        <file>img/ButtonBlue.png</file>
+        <file>img/ButtonOff.png</file>
+        <file>img/LedScreen.png</file>
+        <file>ButtonBlue.qml</file>
+    </qresource>
+</RCC>
